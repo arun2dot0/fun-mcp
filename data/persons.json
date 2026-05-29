@@ -1,0 +1,136 @@
+{
+  "name": "Arun Selvamani",
+  "aka": "Time-Traveling Debugger",
+  "titleTagline": "Full‑stack chaos tamer, part‑time space pirate, full‑time snack enthusiast",
+  "pronunciation": "A-roon Sell-vuh-mah-nee",
+  "mcpProfileVersion": "0.0.1-weird-alpha",
+
+  "originStory": {
+    "birthplace": "Undocumented Kubernetes cluster, zone us-central1-b",
+    "firstBugFixedAtAge": 3,
+    "firstProgrammingLanguage": "CrayonScript",
+    "alignment": "Chaotic Good",
+    "secretLair": "Between two commented-out TODOs in a legacy monolith"
+  },
+
+  "roles": [
+    "Intergalactic Code Plumber",
+    "Senior Dragon Tamer (Production Incidents)",
+    "Chief Sandwich Architect",
+    "Weekend Asteroid Trail Builder"
+  ],
+
+  "stats": {
+    "linesOfCodeWhisperedTo": 314159,
+    "coffeeToBugRatio": "3:1",
+    "tabsOpenInBrowser": 73,
+    "gitCommitsThatStartWithWIP": 0.42,
+    "meetingsDodgedPerSprint": 2
+  },
+
+  "currentQuest": "Refactor a mysterious 20-year-old service without waking the ancient monolith that depends on it.",
+
+  "inventory": {
+    "weapons": [
+      "Rubber duck of infinite patience",
+      "Mechanical keyboard of +5 typing speed",
+      "Dark theme of eternal comfort"
+    ],
+    "artifacts": [
+      "USB stick of unknown origin",
+      "Notebook of unreadable architecture diagrams",
+      "Mug that says 'It worked on my machine'"
+    ],
+    "mounts": [
+      "Office chair with questionable wheels",
+      "Over-caffeinated electric scooter",
+      "Phantom standing desk that only appears during production incidents"
+    ]
+  },
+
+  "superpowers": [
+    "Can read stack traces like plot twists in a thriller",
+    "Able to explain complex systems using only food metaphors",
+    "Predicts production outages 5 minutes before PagerDuty does",
+    "Never forgets to add a .gitignore (almost)"
+  ],
+
+  "weaknesses": [
+    "‘Let me just quickly automate this’ (3-hour rabbit holes)",
+    "Believes every side project will become ‘a tiny reusable framework’",
+    "Says ‘one last ride’ on the bike and comes back after sunset"
+  ],
+
+  "techLore": {
+    "favoriteEditor": "Whichever one has the least unsaved files",
+    "tabsOrSpaces": "Yes",
+    "preferredLoggingLevel": "DEBUG in dev, INFO in prod, CHAOS during incidents",
+    "mostUsedEmojiInCommits": "None, commit messages are poems of regret"
+  },
+
+  "hobbies": [
+    "Refactoring code that nobody asked to be refactored",
+    "Starting sci‑fi books and finishing only the first 3 chapters",
+    "Designing imaginary gadgets that probably violate at least 3 safety standards",
+    "Riding bikes on trails that definitely looked flatter on the map"
+  ],
+
+  "favoriteGlitchesInTheMatrix": [
+    "The bug that disappears as soon as you call someone over",
+    "The CI job that only fails when you watch it",
+    "The feature that ships itself because you misconfigured the pipeline"
+  ],
+
+  "sideQuests": [
+    "Teach an AI to recognize when a variable name is truly cursed",
+    "Build a dashboard that only shows metrics when they look good",
+    "Design a keyboard with a dedicated ‘Roll back’ key"
+  ],
+
+  "catchPhrases": [
+    "It’s not a bug, it’s an emergent feature.",
+    "Let’s pretend we planned it this way.",
+    "I can fix that… but should I?",
+    "Ship it, and we’ll write the postmortem later."
+  ],
+
+  "dailyRoutine": {
+    "morning": "Stares at yesterday’s TODO list and negotiates with it.",
+    "afternoon": "Writes code, deletes code, writes slightly better code.",
+    "evening": "Goes outside to remember what non-LED light looks like.",
+    "night": "Thinks of ‘just one small improvement’ and opens the laptop again."
+  },
+
+  "npcDialogueOptions": {
+    "askAboutWork": [
+      "I break things on purpose so they don’t break by accident.",
+      "If it compiled, that’s already a small miracle."
+    ],
+    "askAboutLife": [
+      "Balance is deploying to prod and still making it to dinner.",
+      "I measure days in commits and kilometers."
+    ],
+    "askForHelp": [
+      "Rubber duck office hours are now open.",
+      "Let’s open the logs and face our destiny."
+    ]
+  },
+
+  "funForMcp": {
+    "conversationStarters": [
+      "Ask for a fake sprint update from Arun’s imaginary team.",
+      "Generate a heroic incident report where Arun saves the day.",
+      "Describe Arun’s origin story as if it were a comic book issue."
+    ],
+    "demoPrompts": [
+      "Generate a fake standup summary for Arun’s intergalactic dev team.",
+      "Write a release note for version 1.0.0 of the Rubber Duck Debugger.",
+      "Simulate a chat between Arun and an overconfident CI pipeline."
+    ],
+    "easterEggFlags": {
+      "isOnBikeRide": true,
+      "coffeeLevelCritical": false,
+      "productionIsProbablyFine": false
+    }
+  }
+}
